@@ -2,7 +2,7 @@
 # author: Fabrizio Miorelli
 # Licence: AGPL 3.0
 
-
+# testing the scipy.optimize.minimize optimization methods (https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html)
 
 import scipy.optimize as opt
 import numpy as np
